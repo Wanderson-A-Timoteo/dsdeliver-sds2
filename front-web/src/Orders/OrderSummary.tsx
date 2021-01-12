@@ -7,7 +7,7 @@ type Props = {
 }
 function OrderSummary( { amount, totalPrice, onSubmit }: Props ) {
     return(
-        <div className="order-sammary-container">
+        <div className="order-summary-container">
             <div className="order-summary-content">
                 <div>
                     <span className="amount-selected-container">
@@ -25,7 +25,7 @@ function OrderSummary( { amount, totalPrice, onSubmit }: Props ) {
                     className="order-summary-make-order"
                     onClick={onSubmit}
                 >
-                    FAZER PEDIDO
+                    ENVIAR PEDIDO
                 </button>
             </div>
         </div>

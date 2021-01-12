@@ -14,7 +14,7 @@ function Home() {
             </h1>
 
             <h3 className="home-subtitle">
-              Escolha o seu pedido e em poucos minutos <br /> levaremoss na sua
+              Escolha o seu pedido e em poucos minutos <br /> levaremos na sua
               porta
             </h3>
 
