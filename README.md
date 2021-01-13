@@ -31,7 +31,7 @@ Esta aplicação chama-se DS Delivery, consiste em um sistema em que clientes po
 
 ### Para asistir ao video acesse:
 
-[![Image](.github/home.png "Vídeo no Youtube")](https://www.youtube.com/watch?v=H3ky3PbFZuo)
+[![DS Delivery](.github/home.png "Vídeo no Youtube")](https://www.youtube.com/watch?v=H3ky3PbFZuo)
 
 ---
 
