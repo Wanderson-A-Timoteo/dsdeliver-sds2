@@ -20,7 +20,11 @@
 
 O projeto foi desenvolvido durante a semana DevSuperior 2.0. <br>
 Esta aplicação chama-se DS Delivery, consiste em um sistema em que clientes podem fazer pedidos para entrega💜
+<br>
+O banckend foi hospedado no Heroku e o frontend na Netlify em https://dsdelivery-wanderson-timoteo.netlify.app 💜
 
+## Acessar o domínio do projeto
+- [DS Delivery](https://dsdelivery-wanderson-timoteo.netlify.app/)
 <br>
 
 ### Prévia vizualização do sistema
