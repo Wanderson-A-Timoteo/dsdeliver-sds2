@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DS Delivery" title="DS Delivery" src=".github/logo.png" />
+    <img alt="DS Delivery" title="DS Delivery" src="https://github.com/Wanderson-A-Timoteo/dsdeliver-sds2/blob/main/.github/logo.PNG" />
 </h1>
 
 <p align="center">
@@ -24,10 +24,10 @@ Esta aplicação chama-se DS Delivery, consiste em um sistema em que clientes po
 <br>
 
 ### Prévia vizualização do sistema
+
 <p align="center">
     <img alt="DS Delivery" title="DS Delivery" src=".github/DSDelivery.gif" />
 </p>
-
 
 ### Para asistir ao video acesse:
 
@@ -40,6 +40,7 @@ Esta aplicação chama-se DS Delivery, consiste em um sistema em que clientes po
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### Backend:
+
 - [JAVA 12](https://www.java.com/pt-BR/)
 - [Spring Tools Suite](https://spring.io/tools)
 - [Spring Boot](https://spring.io/projects/spring-boot)
@@ -47,6 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Heroku](https://www.heroku.com/)
 
 ### Fronend:
+
 - [React.js](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
@@ -58,7 +60,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ### Design do projeto
 
 [Figma](https://www.figma.com/file/LAIvIzyaJsSl2A9NMrnR7W/DSDeliver01)
-
 
 ### Guias de instalação das ferramentas
 
@@ -77,19 +78,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 [Materiais de apoio para aula 3](https://github.com/devsuperior/sds2/tree/master/aula3)
 
 ---
+
 <br>
 
 ## Executar Aplicação
 
-## 🔥 Executando Localmente a Aplicação 
+## 🔥 Executando Localmente a Aplicação
 
 Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
 
-### 🌀 Começando... 
+### 🌀 Começando...
 
 Para começar, você deve simplesmente clonar o repositório do projeto na sua máquina e instalar as dependências.
 
-#### ❗️ Instalando as Dependências (via Windows): 
+#### ❗️ Instalando as Dependências (via Windows):
 
 Abre o cmd (caso esteja utilizando o Windows) navegue até o local onde você clonou o projeto
 
@@ -97,7 +99,7 @@ Abre o cmd (caso esteja utilizando o Windows) navegue até o local onde você cl
 cd "C:\Users\NomeDoComputador\Documents\clonedoprojeto"
 ```
 
-Depois, quando estiver na pasta do projeto, basta acessar o projeto frontend na pasta ``` front-web ``` digitar no cmd a seguinte instrução: **(dentro da pasta ``` front-web ``` do projeto clonado)**
+Depois, quando estiver na pasta do projeto, basta acessar o projeto frontend na pasta `front-web` digitar no cmd a seguinte instrução: **(dentro da pasta `front-web` do projeto clonado)**
 
 ```
 > npm install
@@ -105,16 +107,18 @@ Depois, quando estiver na pasta do projeto, basta acessar o projeto frontend na 
 
 Ao digitar a instrução acima, automaticamente ele irá baixar todas as dependências listadas e definidas no arquivo package.json:
 
-* `node_modules` - que contêm os packages do npm que precisará para o projeto.
+- `node_modules` - que contêm os packages do npm que precisará para o projeto.
 
-#### 💨 Executando a Aplicação 
+#### 💨 Executando a Aplicação
 
-Bom, agora  **(dentro da pasta ``` front-web ``` do projeto clonado)** abra um terminal para o projeto ser executado e digite:
+Bom, agora **(dentro da pasta `front-web` do projeto clonado)** abra um terminal para o projeto ser executado e digite:
+
 ```
 npm start
 ```
 
-**(dentro da pasta ``` backend ``` do projeto clonado)** abra o projeto com Spring Tools Suite e execute o spring boot app:
+**(dentro da pasta `backend` do projeto clonado)** abra o projeto com Spring Tools Suite e execute o spring boot app:
+
 ```
 DsdeliverAplication.java
 ```
@@ -122,29 +126,30 @@ DsdeliverAplication.java
 Pronto! dessa forma os dois projetos estarão rodando localmente em sua maquina, acesse:
 <br>
 
-### 🚩 Tenho Dúvidas... O que fazer? 
+### 🚩 Tenho Dúvidas... O que fazer?
 
 Caso tenham dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/dsdeliver-sds2/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
 ---
 
-##  Licença
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
 ## Autor:
+
 Feito com ♥ by
-* **Wanderson A. Timóteo** - [Contatos](https://wanderson.ga)
+
+- **Wanderson A. Timóteo** - [Contatos](https://wanderson.ga)
 
 ## Agradecimentos:
+
 <h1 align="center">
     <img alt="DevSuperior" title="DevSuperior" src=".github/devsuperior.png" />
 </h1>
 
-* Projeto desenvolvido durante a Semana [DevSuperior 2.0](https://devsuperior.com.br/). 
+- Projeto desenvolvido durante a Semana [DevSuperior 2.0](https://devsuperior.com.br/).
 
-* Agradecimento ao [Nelio Alves e Washington Soares](https://github.com/devsuperior) por compartilhar conteúdo relevante e com qualidade de ensino.
-
-
+- Agradecimento ao [Nelio Alves e Washington Soares](https://github.com/devsuperior) por compartilhar conteúdo relevante e com qualidade de ensino.
